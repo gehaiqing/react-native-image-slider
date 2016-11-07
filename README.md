@@ -3,10 +3,9 @@ react native图片轮播
 
 # 使用
 
-<ImageSlider
+    <ImageSlider
     height={200} autoplay={true}
-    images={['http://...',
-    'http://...']} />
+    images={['http://...','http://...']} />
     
 # 参数
 
